@@ -1,4 +1,3 @@
-%%writefile README.md
 # Quantum-Enhanced Psychological Well-being Assistant
 
 This project aims to develop a conversational AI assistant capable of providing support and guidance related to psychological well-being, incorporating advanced techniques such as neuroplasticity, quantum consciousness, and quantum machine learning.
