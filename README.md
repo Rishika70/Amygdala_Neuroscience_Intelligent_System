@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-This document details a model designed to generate responses incorporating concepts from neuroplasticity, ego, attention, fear, and quantum consciousness. The model is comprised of a hybrid architecture that includes both classical and quantum machine learning components. It aims to provide more nuanced and insightful responses to user inputs related to emotional well-being.
+This document details a model designed to generate responses incorporating neuroplasticity, ego, attention, fear, and quantum consciousness concepts. The model comprises a hybrid architecture that includes classical and quantum machine learning components. It aims to provide more nuanced and insightful responses to user inputs related to emotional well-being.
 
 **Model Architecture:**
 
@@ -23,7 +23,7 @@ This document details a model designed to generate responses incorporating conce
 
 **Classical Neural Network Component:**
 
-- The classical component of the model is a neural network built using Keras and Tensorflow.
+- The classical component of the model is a neural network built using Keras and TensorFlow.
 - The network is trained on simulated data (placeholder) to predict outcomes like anxiety or depression.
 
 **Metrics:**
@@ -45,7 +45,7 @@ The following metrics are used to evaluate the model's performance for the class
 **| Recall     | 0.56  |**
 **| F1-Score   | 0.47  |**
 
-*Note: These are placeholder metrics and would be replaced with actual scores when the model is trained and tested on a relevant dataset.*
+*Note: These are placeholder metrics and will be replaced with actual scores when the model is trained and tested on a relevant dataset.*
 
 **Quantum Component:**
 
